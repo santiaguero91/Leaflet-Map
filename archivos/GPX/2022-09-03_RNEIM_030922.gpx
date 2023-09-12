@@ -1,0 +1,738 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Geo Tracker 5.1.5.2972 for Android by Ilya Bogdanovich">
+  <metadata>
+    <name>RNEIM 030922</name>
+    <author>
+      <name>Registrado con Geo Tracker para Android de Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2022-09-03T16:52:43.569Z</time>
+  </metadata>
+  <wpt lat="-34.37338443" lon="-58.75348287">
+    <ele>18.77</ele>
+    <time>2022-09-03T16:54:04Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37338406" lon="-58.75347551">
+    <ele>18</ele>
+    <time>2022-09-03T16:54:23Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37336964" lon="-58.75345814">
+    <ele>17.94</ele>
+    <time>2022-09-03T16:54:38Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37334114" lon="-58.75344626">
+    <ele>18.52</ele>
+    <time>2022-09-03T16:54:55Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37332836" lon="-58.75347999">
+    <ele>19.27</ele>
+    <time>2022-09-03T16:55:16Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37333301" lon="-58.753523">
+    <ele>20.74</ele>
+    <time>2022-09-03T16:55:33Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37332426" lon="-58.75351942">
+    <ele>20.38</ele>
+    <time>2022-09-03T16:55:51Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37333524" lon="-58.75354276">
+    <ele>19.78</ele>
+    <time>2022-09-03T16:56:08Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37330639" lon="-58.75355261">
+    <ele>19.88</ele>
+    <time>2022-09-03T16:56:21Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37329164" lon="-58.75353377">
+    <ele>20.77</ele>
+    <time>2022-09-03T16:56:34Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37328554" lon="-58.75359729">
+    <ele>22.16</ele>
+    <time>2022-09-03T16:56:49Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37324843" lon="-58.75357822">
+    <ele>21.87</ele>
+    <time>2022-09-03T16:57:02Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37324368" lon="-58.75362224">
+    <ele>20.13</ele>
+    <time>2022-09-03T16:57:15Z</time>
+    <name>Talilla</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37326992" lon="-58.75364058">
+    <ele>20.48</ele>
+    <time>2022-09-03T16:57:30Z</time>
+    <name>Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 5 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37326268" lon="-58.75363122">
+    <ele>20.66</ele>
+    <time>2022-09-03T16:57:46Z</time>
+    <name>2 Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37325997" lon="-58.75360771">
+    <ele>22.49</ele>
+    <time>2022-09-03T16:58:10Z</time>
+    <name>Fumo + Margarita Amarilla+ Quiebra Arado</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 5 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37324072" lon="-58.75363248">
+    <ele>21.59</ele>
+    <time>2022-09-03T16:58:56Z</time>
+    <name>2 Talillas + 2 Margarita Amarilla + </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37319279" lon="-58.75361983">
+    <ele>22.18</ele>
+    <time>2022-09-03T16:59:56Z</time>
+    <name>Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37319122" lon="-58.75360779">
+    <ele>22.53</ele>
+    <time>2022-09-03T17:00:08Z</time>
+    <name>Chal chal </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 23 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37322763" lon="-58.75361464">
+    <ele>21.33</ele>
+    <time>2022-09-03T17:00:25Z</time>
+    <name>Fumo Bravo + 3 Margarita + Quiebra Arado </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37324059" lon="-58.75361053">
+    <ele>21.14</ele>
+    <time>2022-09-03T17:01:24Z</time>
+    <name>Talilla + 2 Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37325401" lon="-58.75362187">
+    <ele>19.46</ele>
+    <time>2022-09-03T17:01:49Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37326452" lon="-58.75364476">
+    <ele>19.59</ele>
+    <time>2022-09-03T17:02:09Z</time>
+    <name>Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37322924" lon="-58.75362657">
+    <ele>18.38</ele>
+    <time>2022-09-03T17:02:24Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37321398" lon="-58.75363994">
+    <ele>19.41</ele>
+    <time>2022-09-03T17:02:36Z</time>
+    <name>Talilla</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37321199" lon="-58.75364768">
+    <ele>17.38</ele>
+    <time>2022-09-03T17:02:51Z</time>
+    <name>Talilla + 2 Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 17 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.3732017" lon="-58.75364246">
+    <ele>18.5</ele>
+    <time>2022-09-03T17:03:18Z</time>
+    <name>2 Quiebra Arado</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37317414" lon="-58.75362617">
+    <ele>16.39</ele>
+    <time>2022-09-03T17:03:49Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 16 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.3731489" lon="-58.75364321">
+    <ele>17.65</ele>
+    <time>2022-09-03T17:04:02Z</time>
+    <name>Tala</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37318857" lon="-58.75366162">
+    <ele>20.46</ele>
+    <time>2022-09-03T17:04:23Z</time>
+    <name>Talilla + 3 Margarita Amarilla + Quiebra Arado </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37320334" lon="-58.75369714">
+    <ele>22.86</ele>
+    <time>2022-09-03T17:05:12Z</time>
+    <name>Talilla + 2 Quiebra Arado + Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 23 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37321025" lon="-58.75383437">
+    <ele>17.34</ele>
+    <time>2022-09-03T17:06:14Z</time>
+    <name>Coronillo </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 17 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37320086" lon="-58.75379873">
+    <ele>18.4</ele>
+    <time>2022-09-03T17:06:28Z</time>
+    <name>Tala + Coronillo + 2 Pavonia Sepium + Hediondilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37316537" lon="-58.75374994">
+    <ele>18.88</ele>
+    <time>2022-09-03T17:07:28Z</time>
+    <name>Anacahuita+ 2 Pavonia Sepium + Hediondilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37314769" lon="-58.75378342">
+    <ele>20</ele>
+    <time>2022-09-03T17:08:05Z</time>
+    <name>Chal chal + 4 Pavonia Sepium + 3 Hediondilla</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37317681" lon="-58.75382112">
+    <ele>21.07</ele>
+    <time>2022-09-03T17:09:11Z</time>
+    <name>Pavonia Sepium </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37317669" lon="-58.75386064">
+    <ele>19.89</ele>
+    <time>2022-09-03T17:09:33Z</time>
+    <name>Anacahuita + 3 Pavonia Sepium </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37317224" lon="-58.75386027">
+    <ele>20.84</ele>
+    <time>2022-09-03T17:10:01Z</time>
+    <name>Chal chal + 3 Pavonia Sepium </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37317268" lon="-58.75394332">
+    <ele>24.7</ele>
+    <time>2022-09-03T17:10:49Z</time>
+    <name>2 Curupí + Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 25 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37318297" lon="-58.75399702">
+    <ele>22.27</ele>
+    <time>2022-09-03T17:11:15Z</time>
+    <name>2 Curupí + Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.3731716" lon="-58.75400202">
+    <ele>21.72</ele>
+    <time>2022-09-03T17:11:40Z</time>
+    <name>Curupí + Margarita Amarilla + Quiebra Arado </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37313961" lon="-58.7540212">
+    <ele>20.79</ele>
+    <time>2022-09-03T17:12:10Z</time>
+    <name>Curupí + Quiebra Arado </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37332829" lon="-58.75400235">
+    <ele>21.15</ele>
+    <time>2022-09-03T17:13:26Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37332386" lon="-58.753992">
+    <ele>19.58</ele>
+    <time>2022-09-03T17:13:43Z</time>
+    <name>Curupí + Quiebra Arado + Malva Rosa </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37330569" lon="-58.75396302">
+    <ele>19.36</ele>
+    <time>2022-09-03T17:14:25Z</time>
+    <name>Curupí + Quiebra Arado </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37329667" lon="-58.75395304">
+    <ele>18.73</ele>
+    <time>2022-09-03T17:15:03Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37326737" lon="-58.75393525">
+    <ele>18.38</ele>
+    <time>2022-09-03T17:15:23Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37327029" lon="-58.75393036">
+    <ele>17.65</ele>
+    <time>2022-09-03T17:15:37Z</time>
+    <name>Malva Rosa</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37329141" lon="-58.75393297">
+    <ele>18.57</ele>
+    <time>2022-09-03T17:15:52Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37329658" lon="-58.75396831">
+    <ele>18.13</ele>
+    <time>2022-09-03T17:16:09Z</time>
+    <name>Curupí + Quiebra Arado </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37328982" lon="-58.75396354">
+    <ele>17.82</ele>
+    <time>2022-09-03T17:16:35Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37325626" lon="-58.75398854">
+    <ele>17.94</ele>
+    <time>2022-09-03T17:16:59Z</time>
+    <name>Curupí + Malva Rosa</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37323524" lon="-58.75402126">
+    <ele>17.88</ele>
+    <time>2022-09-03T17:17:21Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37323206" lon="-58.75403992">
+    <ele>16.76</ele>
+    <time>2022-09-03T17:17:38Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 17 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37323003" lon="-58.7540457">
+    <ele>16.21</ele>
+    <time>2022-09-03T17:17:50Z</time>
+    <name>Margarita Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 16 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37318129" lon="-58.75403813">
+    <ele>21.07</ele>
+    <time>2022-09-03T17:18:14Z</time>
+    <name>Acacia Café </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37318021" lon="-58.75405144">
+    <ele>20.77</ele>
+    <time>2022-09-03T17:18:28Z</time>
+    <name>Acacia Café </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37318377" lon="-58.75407179">
+    <ele>20.82</ele>
+    <time>2022-09-03T17:18:44Z</time>
+    <name>Ceibo</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37316319" lon="-58.7540891">
+    <ele>20.23</ele>
+    <time>2022-09-03T17:19:00Z</time>
+    <name>Ceibo</name>
+    <desc>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37317368" lon="-58.75410118">
+    <ele>21.85</ele>
+    <time>2022-09-03T17:19:14Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37318786" lon="-58.75401172">
+    <ele>15.58</ele>
+    <time>2022-09-03T17:19:35Z</time>
+    <name>3 Achira Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 16 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37312907" lon="-58.75405557">
+    <ele>14.71</ele>
+    <time>2022-09-03T17:19:54Z</time>
+    <name>3 Achira Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 15 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37312358" lon="-58.75407891">
+    <ele>13.49</ele>
+    <time>2022-09-03T17:20:17Z</time>
+    <name>Achira Amarilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 13 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37318137" lon="-58.7540963">
+    <ele>15.43</ele>
+    <time>2022-09-03T17:20:53Z</time>
+    <name>Curupí + Malva Rosa </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 15 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.3731633" lon="-58.75408942">
+    <ele>14.27</ele>
+    <time>2022-09-03T17:21:18Z</time>
+    <name>Curupí + 2 Hediondilla </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 14 m
+Precisión: 3 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="-34.37312368" lon="-58.75406224">
+    <ele>14.28</ele>
+    <time>2022-09-03T17:21:45Z</time>
+    <name>Curupí </name>
+    <desc>Velocidad: 0 km/h
+Elevación: 14 m
+Precisión: 4 m</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+</gpx>

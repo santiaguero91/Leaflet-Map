@@ -1,0 +1,1619 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <open>1</open>
+    <visibility>1</visibility>
+    <name>RNEIM 030922</name>
+    <description></description>
+    <atom:author>
+      <atom:name>Registrado con Geo Tracker para Android de Ilya Bogdanovich</atom:name>
+    </atom:author>
+    <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <ExtendedData>
+      <Data name="comment">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <TimeStamp>
+      <when>2022-09-03T16:52:43.569Z</when>
+    </TimeStamp>
+    <Style id="track">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Schema id="geotrackerTrackSchema">
+      <gx:SimpleArrayField name="speed" type="float">
+        <displayName>Speed, meters per second</displayName>
+      </gx:SimpleArrayField>
+      <gx:SimpleArrayField name="course" type="float">
+        <displayName>Course, radians</displayName>
+      </gx:SimpleArrayField>
+    </Schema>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75348287,-34.37338443,18.77</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:54:04Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75347551,-34.37338406,18</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:54:23Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75345814,-34.37336964,17.94</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:54:38Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75344626,-34.37334114,18.52</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:54:55Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75347999,-34.37332836,19.27</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:55:16Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753523,-34.37333301,20.74</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:55:33Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75351942,-34.37332426,20.38</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:55:51Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75354276,-34.37333524,19.78</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:56:08Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75355261,-34.37330639,19.88</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:56:21Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75353377,-34.37329164,20.77</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:56:34Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75359729,-34.37328554,22.16</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:56:49Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75357822,-34.37324843,21.87</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:57:02Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Talilla</name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75362224,-34.37324368,20.13</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:57:15Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 5 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75364058,-34.37326992,20.48</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:57:30Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>2 Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75363122,-34.37326268,20.66</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:57:46Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Fumo + Margarita Amarilla+ Quiebra Arado</name>
+      <description>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 5 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75360771,-34.37325997,22.49</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:58:10Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>2 Talillas + 2 Margarita Amarilla + </name>
+      <description>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75363248,-34.37324072,21.59</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:58:56Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75361983,-34.37319279,22.18</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T16:59:56Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Chal chal </name>
+      <description>Velocidad: 0 km/h
+Elevación: 23 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75360779,-34.37319122,22.53</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:00:08Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Fumo Bravo + 3 Margarita + Quiebra Arado </name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75361464,-34.37322763,21.33</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:00:25Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Talilla + 2 Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75361053,-34.37324059,21.14</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:01:24Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75362187,-34.37325401,19.46</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:01:49Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75364476,-34.37326452,19.59</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:02:09Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75362657,-34.37322924,18.38</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:02:24Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Talilla</name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75363994,-34.37321398,19.41</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:02:36Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Talilla + 2 Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 17 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75364768,-34.37321199,17.38</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:02:51Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>2 Quiebra Arado</name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75364246,-34.3732017,18.5</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:03:18Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 16 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75362617,-34.37317414,16.39</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:03:49Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala</name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75364321,-34.3731489,17.65</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:04:02Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Talilla + 3 Margarita Amarilla + Quiebra Arado </name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75366162,-34.37318857,20.46</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:04:23Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Talilla + 2 Quiebra Arado + Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 23 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75369714,-34.37320334,22.86</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:05:12Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Coronillo </name>
+      <description>Velocidad: 0 km/h
+Elevación: 17 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75383437,-34.37321025,17.34</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:06:14Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Tala + Coronillo + 2 Pavonia Sepium + Hediondilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75379873,-34.37320086,18.4</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:06:28Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Anacahuita+ 2 Pavonia Sepium + Hediondilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75374994,-34.37316537,18.88</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:07:28Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Chal chal + 4 Pavonia Sepium + 3 Hediondilla</name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75378342,-34.37314769,20</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:08:05Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Pavonia Sepium </name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75382112,-34.37317681,21.07</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:09:11Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Anacahuita + 3 Pavonia Sepium </name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75386064,-34.37317669,19.89</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:09:33Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Chal chal + 3 Pavonia Sepium </name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75386027,-34.37317224,20.84</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:10:01Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>2 Curupí + Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 25 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75394332,-34.37317268,24.7</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:10:49Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>2 Curupí + Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75399702,-34.37318297,22.27</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:11:15Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí + Margarita Amarilla + Quiebra Arado </name>
+      <description>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75400202,-34.3731716,21.72</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:11:40Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí + Quiebra Arado </name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.7540212,-34.37313961,20.79</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:12:10Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75400235,-34.37332829,21.15</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:13:26Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí + Quiebra Arado + Malva Rosa </name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753992,-34.37332386,19.58</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:13:43Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí + Quiebra Arado </name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75396302,-34.37330569,19.36</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:14:25Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75395304,-34.37329667,18.73</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:15:03Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75393525,-34.37326737,18.38</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:15:23Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Malva Rosa</name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75393036,-34.37327029,17.65</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:15:37Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 19 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75393297,-34.37329141,18.57</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:15:52Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí + Quiebra Arado </name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75396831,-34.37329658,18.13</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:16:09Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75396354,-34.37328982,17.82</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:16:35Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí + Malva Rosa</name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75398854,-34.37325626,17.94</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:16:59Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 18 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75402126,-34.37323524,17.88</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:17:21Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 17 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75403992,-34.37323206,16.76</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:17:38Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Margarita Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 16 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.7540457,-34.37323003,16.21</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:17:50Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Acacia Café </name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75403813,-34.37318129,21.07</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:18:14Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Acacia Café </name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75405144,-34.37318021,20.77</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:18:28Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Ceibo</name>
+      <description>Velocidad: 0 km/h
+Elevación: 21 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75407179,-34.37318377,20.82</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:18:44Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Ceibo</name>
+      <description>Velocidad: 0 km/h
+Elevación: 20 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.7540891,-34.37316319,20.23</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:19:00Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 22 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75410118,-34.37317368,21.85</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:19:14Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>3 Achira Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 16 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75401172,-34.37318786,15.58</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:19:35Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>3 Achira Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 15 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75405557,-34.37312907,14.71</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:19:54Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Achira Amarilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 13 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75407891,-34.37312358,13.49</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:20:17Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí + Malva Rosa </name>
+      <description>Velocidad: 0 km/h
+Elevación: 15 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.7540963,-34.37318137,15.43</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:20:53Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí + 2 Hediondilla </name>
+      <description>Velocidad: 0 km/h
+Elevación: 14 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75408942,-34.3731633,14.27</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:21:18Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Curupí </name>
+      <description>Velocidad: 0 km/h
+Elevación: 14 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75406224,-34.37312368,14.28</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2022-09-03T17:21:45Z</when>
+      </TimeStamp>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,723 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <open>1</open>
+    <visibility>1</visibility>
+    <name>RNEIM Pajonal</name>
+    <description>Laguna ceibal</description>
+    <atom:author>
+      <atom:name>Registrado con Geo Tracker para Android de Ilya Bogdanovich</atom:name>
+    </atom:author>
+    <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <ExtendedData>
+      <Data name="comment">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <TimeStamp>
+      <when>2021-02-06T14:44:27.208Z</when>
+    </TimeStamp>
+    <Style id="track">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Schema id="geotrackerTrackSchema">
+      <gx:SimpleArrayField name="speed" type="float">
+        <displayName>Speed, meters per second</displayName>
+      </gx:SimpleArrayField>
+      <gx:SimpleArrayField name="course" type="float">
+        <displayName>Course, radians</displayName>
+      </gx:SimpleArrayField>
+    </Schema>
+    <Placemark>
+      <name>062</name>
+      <description>Velocidad: 0 km/h
+Elevación: 15 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753097,-34.371453,14.84</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:44:30.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>063</name>
+      <description>Velocidad: 0 km/h
+Elevación: 16 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753053,-34.371439,16.47</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:44:58.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>064</name>
+      <description>Velocidad: 1,01 km/h
+Curso: 156°
+Elevación: 15 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753048,-34.371403,15.11</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:45:29.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>065</name>
+      <description>Velocidad: 0 km/h
+Elevación: 15 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.75308,-34.371392,15.17</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:45:54.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>066</name>
+      <description>Velocidad: 0 km/h
+Elevación: 13 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753081,-34.371401,12.73</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:46:16.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>067</name>
+      <description>Velocidad: 0 km/h
+Elevación: 12 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753074,-34.371401,12.49</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:46:29.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>068</name>
+      <description>Velocidad: 0 km/h
+Elevación: 15 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753058,-34.371368,14.63</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:46:52.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>069</name>
+      <description>Velocidad: 0 km/h
+Elevación: 13 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753054,-34.371344,12.72</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:47:06.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>070</name>
+      <description>Velocidad: 3,02 km/h
+Curso: 22°
+Elevación: 12 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753015,-34.371302,12.04</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:47:30.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>071</name>
+      <description>Velocidad: 2,99 km/h
+Curso: 5°
+Elevación: 12 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753035,-34.37129,11.57</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:47:45.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>072</name>
+      <description>Velocidad: 1,55 km/h
+Curso: 242°
+Elevación: 13 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753071,-34.371334,13.35</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:48:03.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>073</name>
+      <description>Velocidad: 2,34 km/h
+Curso: 280°
+Elevación: 20 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753101,-34.371328,19.64</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:48:19.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>074</name>
+      <description>Velocidad: 0 km/h
+Elevación: 15 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753091,-34.371353,15.46</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:48:38.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Ubicación actual</name>
+      <description>Velocidad: 0 km/h
+Elevación: 17 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753117,-34.371373,17.24</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:48:56.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>075</name>
+      <description>Velocidad: 0 km/h
+Elevación: 17 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753124,-34.371376,17.21</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:48:59.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>076</name>
+      <description>Velocidad: 0 km/h
+Elevación: 14 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-58.753178,-34.371378,14.46</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2021-02-06T14:49:17.000Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark id="tour">
+      <name>RNEIM Pajonal</name>
+      <description>Laguna ceibal</description>
+      <atom:author>
+        <atom:name>Registrado con Geo Tracker para Android de Ilya Bogdanovich</atom:name>
+      </atom:author>
+      <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="activity">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <TimeSpan>
+        <begin>2021-02-06T14:44:27.208Z</begin>
+        <end>2021-02-06T14:50:04.502Z</end>
+      </TimeSpan>
+      <styleUrl>#track</styleUrl>
+      <gx:MultiTrack>
+        <altitudeMode>absolute</altitudeMode>
+        <gx:interpolate>0</gx:interpolate>
+        <gx:Track>
+          <gx:coord>-58.753097 -34.371453 14.84</gx:coord>
+          <when>2021-02-06T14:44:30.000Z</when>
+          <gx:coord>-58.753082 -34.371454 14.18</gx:coord>
+          <when>2021-02-06T14:44:40.000Z</when>
+          <gx:coord>-58.753072 -34.371455 13.83</gx:coord>
+          <when>2021-02-06T14:44:43.000Z</when>
+          <gx:coord>-58.75307 -34.371439 15.62</gx:coord>
+          <when>2021-02-06T14:44:55.000Z</when>
+          <gx:coord>-58.753057 -34.371434 16.01</gx:coord>
+          <when>2021-02-06T14:44:57.000Z</when>
+          <gx:coord>-58.75305 -34.371443 16.6</gx:coord>
+          <when>2021-02-06T14:45:00.000Z</when>
+          <gx:coord>-58.753042 -34.371428 15.93</gx:coord>
+          <when>2021-02-06T14:45:14.000Z</when>
+          <gx:coord>-58.753034 -34.371419 15.15</gx:coord>
+          <when>2021-02-06T14:45:23.000Z</when>
+          <gx:coord>-58.75304 -34.371409 15.4</gx:coord>
+          <when>2021-02-06T14:45:25.000Z</when>
+          <gx:coord>-58.753054 -34.371404 14.5</gx:coord>
+          <when>2021-02-06T14:45:30.000Z</when>
+          <gx:coord>-58.753066 -34.371406 15.9</gx:coord>
+          <when>2021-02-06T14:45:38.000Z</when>
+          <gx:coord>-58.753082 -34.371405 16.48</gx:coord>
+          <when>2021-02-06T14:45:40.000Z</when>
+          <gx:coord>-58.753097 -34.3714 17.09</gx:coord>
+          <when>2021-02-06T14:45:42.000Z</when>
+          <gx:coord>-58.753093 -34.371391 17.21</gx:coord>
+          <when>2021-02-06T14:45:44.000Z</when>
+          <gx:coord>-58.753075 -34.371384 17.72</gx:coord>
+          <when>2021-02-06T14:45:46.000Z</when>
+          <gx:coord>-58.753087 -34.371394 14.74</gx:coord>
+          <when>2021-02-06T14:45:55.000Z</when>
+          <gx:coord>-58.753089 -34.371404 15.92</gx:coord>
+          <when>2021-02-06T14:45:58.000Z</when>
+          <gx:coord>-58.753079 -34.371401 12.64</gx:coord>
+          <when>2021-02-06T14:46:18.000Z</when>
+          <gx:coord>-58.753091 -34.371399 12.15</gx:coord>
+          <when>2021-02-06T14:46:25.000Z</when>
+          <gx:coord>-58.75308 -34.371398 12.46</gx:coord>
+          <when>2021-02-06T14:46:28.000Z</when>
+          <gx:coord>-58.753069 -34.371401 10.85</gx:coord>
+          <when>2021-02-06T14:46:32.000Z</when>
+          <gx:coord>-58.753057 -34.371391 13.62</gx:coord>
+          <when>2021-02-06T14:46:42.000Z</when>
+          <gx:coord>-58.753052 -34.37138 13.62</gx:coord>
+          <when>2021-02-06T14:46:44.000Z</when>
+          <gx:coord>-58.753057 -34.371369 14.47</gx:coord>
+          <when>2021-02-06T14:46:51.000Z</when>
+          <gx:coord>-58.753049 -34.371363 13.33</gx:coord>
+          <when>2021-02-06T14:46:57.000Z</when>
+          <gx:coord>-58.753048 -34.371354 14.27</gx:coord>
+          <when>2021-02-06T14:47:03.000Z</when>
+          <gx:coord>-58.753054 -34.371344 12.72</gx:coord>
+          <when>2021-02-06T14:47:06.000Z</when>
+          <gx:coord>-58.753039 -34.371337 11.91</gx:coord>
+          <when>2021-02-06T14:47:23.000Z</when>
+          <gx:coord>-58.753024 -34.37133 11.6</gx:coord>
+          <when>2021-02-06T14:47:25.000Z</when>
+          <gx:coord>-58.753012 -34.37132 12.71</gx:coord>
+          <when>2021-02-06T14:47:27.000Z</when>
+          <gx:coord>-58.753013 -34.371307 12.85</gx:coord>
+          <when>2021-02-06T14:47:29.000Z</when>
+          <gx:coord>-58.753025 -34.371304 12.04</gx:coord>
+          <when>2021-02-06T14:47:31.000Z</when>
+          <gx:coord>-58.753034 -34.371309 12.04</gx:coord>
+          <when>2021-02-06T14:47:34.000Z</when>
+          <gx:coord>-58.753022 -34.371312 11.04</gx:coord>
+          <when>2021-02-06T14:47:38.000Z</when>
+          <gx:coord>-58.753032 -34.371302 11.55</gx:coord>
+          <when>2021-02-06T14:47:43.000Z</when>
+          <gx:coord>-58.753035 -34.37129 11.57</gx:coord>
+          <when>2021-02-06T14:47:45.000Z</when>
+          <gx:coord>-58.753028 -34.371299 12.9</gx:coord>
+          <when>2021-02-06T14:47:57.000Z</when>
+          <gx:coord>-58.753036 -34.371313 15.22</gx:coord>
+          <when>2021-02-06T14:47:59.000Z</when>
+          <gx:coord>-58.753054 -34.371328 14.69</gx:coord>
+          <when>2021-02-06T14:48:01.000Z</when>
+          <gx:coord>-58.753071 -34.371334 13.35</gx:coord>
+          <when>2021-02-06T14:48:03.000Z</when>
+          <gx:coord>-58.753078 -34.371341 13.7</gx:coord>
+          <when>2021-02-06T14:48:12.000Z</when>
+          <gx:coord>-58.753087 -34.371332 19.58</gx:coord>
+          <when>2021-02-06T14:48:17.000Z</when>
+          <gx:coord>-58.753101 -34.371328 19.64</gx:coord>
+          <when>2021-02-06T14:48:19.000Z</when>
+          <gx:coord>-58.753112 -34.371335 17.68</gx:coord>
+          <when>2021-02-06T14:48:32.000Z</when>
+          <gx:coord>-58.753109 -34.371344 16.81</gx:coord>
+          <when>2021-02-06T14:48:34.000Z</when>
+          <gx:coord>-58.753095 -34.371351 15.87</gx:coord>
+          <when>2021-02-06T14:48:36.000Z</when>
+          <gx:coord>-58.753088 -34.371359 15.95</gx:coord>
+          <when>2021-02-06T14:48:40.000Z</when>
+          <gx:coord>-58.753101 -34.371363 15.98</gx:coord>
+          <when>2021-02-06T14:48:53.000Z</when>
+          <gx:coord>-58.753113 -34.37137 16.95</gx:coord>
+          <when>2021-02-06T14:48:55.000Z</when>
+          <gx:coord>-58.753123 -34.371376 17.2</gx:coord>
+          <when>2021-02-06T14:48:58.000Z</when>
+          <gx:coord>-58.753131 -34.371386 18.96</gx:coord>
+          <when>2021-02-06T14:49:13.000Z</when>
+          <gx:coord>-58.753154 -34.371381 15.01</gx:coord>
+          <when>2021-02-06T14:49:14.000Z</when>
+          <gx:coord>-58.753166 -34.371381 14.41</gx:coord>
+          <when>2021-02-06T14:49:15.000Z</when>
+          <gx:coord>-58.753178 -34.371378 14.46</gx:coord>
+          <when>2021-02-06T14:49:17.000Z</when>
+          <gx:coord>-58.753187 -34.371389 15.33</gx:coord>
+          <when>2021-02-06T14:49:36.000Z</when>
+          <gx:coord>-58.753177 -34.371398 15.11</gx:coord>
+          <when>2021-02-06T14:49:38.000Z</when>
+          <gx:coord>-58.753179 -34.37141 16.45</gx:coord>
+          <when>2021-02-06T14:49:46.000Z</when>
+          <gx:coord>-58.753183 -34.37142 15.87</gx:coord>
+          <when>2021-02-06T14:49:47.000Z</when>
+          <gx:coord>-58.75318 -34.371431 17.15</gx:coord>
+          <when>2021-02-06T14:49:48.000Z</when>
+          <gx:coord>-58.753174 -34.37144 17.87</gx:coord>
+          <when>2021-02-06T14:49:49.000Z</when>
+          <gx:coord>-58.753164 -34.371447 18.06</gx:coord>
+          <when>2021-02-06T14:49:50.000Z</when>
+          <gx:coord>-58.753154 -34.371453 18.26</gx:coord>
+          <when>2021-02-06T14:49:51.000Z</when>
+          <gx:coord>-58.753143 -34.37146 18.39</gx:coord>
+          <when>2021-02-06T14:49:52.000Z</when>
+          <gx:coord>-58.753133 -34.371466 17.94</gx:coord>
+          <when>2021-02-06T14:49:53.000Z</when>
+          <gx:coord>-58.753121 -34.371479 17.96</gx:coord>
+          <when>2021-02-06T14:49:55.000Z</when>
+          <gx:coord>-58.753111 -34.37149 17.36</gx:coord>
+          <when>2021-02-06T14:49:57.000Z</when>
+          <gx:coord>-58.753102 -34.371502 16.86</gx:coord>
+          <when>2021-02-06T14:49:59.000Z</when>
+          <gx:coord>-58.753096 -34.371514 16.1</gx:coord>
+          <when>2021-02-06T14:50:01.000Z</when>
+          <gx:coord>-58.753091 -34.371526 16.2</gx:coord>
+          <when>2021-02-06T14:50:03.000Z</when>
+          <gx:coord>-58.753099 -34.371537 15.17</gx:coord>
+          <when>2021-02-06T14:50:05.000Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.76</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.65</gx:value>
+                <gx:value>0.65</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.66</gx:value>
+                <gx:value>0.51</gx:value>
+                <gx:value>0.74</gx:value>
+                <gx:value>0.75</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.81</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>1</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.42</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.59</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.77</gx:value>
+                <gx:value>0.82</gx:value>
+                <gx:value>0.8</gx:value>
+                <gx:value>0.85</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>1.06</gx:value>
+                <gx:value>0.83</gx:value>
+                <gx:value>0.26</gx:value>
+                <gx:value>0.82</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.43</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.7</gx:value>
+                <gx:value>0.65</gx:value>
+                <gx:value>0.76</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.58</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.92</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.83</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.42</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0</gx:value>
+                <gx:value>0.85</gx:value>
+                <gx:value>0.83</gx:value>
+                <gx:value>0.81</gx:value>
+                <gx:value>0.78</gx:value>
+                <gx:value>0.76</gx:value>
+                <gx:value>0.73</gx:value>
+                <gx:value>0.75</gx:value>
+                <gx:value>0.73</gx:value>
+                <gx:value>0.68</gx:value>
+                <gx:value>0.66</gx:value>
+                <gx:value>0.65</gx:value>
+                <gx:value>0.63</gx:value>
+                <gx:value>0</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value>0.07</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value>1.8</gx:value>
+                <gx:value>6.11</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value>4.5</gx:value>
+                <gx:value>5.45</gx:value>
+                <gx:value>6.19</gx:value>
+                <gx:value>0.75</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value>5.29</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value>1.12</gx:value>
+                <gx:value />
+                <gx:value>5.42</gx:value>
+                <gx:value />
+                <gx:value>5.75</gx:value>
+                <gx:value />
+                <gx:value>1.14</gx:value>
+                <gx:value>0.79</gx:value>
+                <gx:value>0.61</gx:value>
+                <gx:value>0.14</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value>6.21</gx:value>
+                <gx:value>0.08</gx:value>
+                <gx:value>3.21</gx:value>
+                <gx:value>4.22</gx:value>
+                <gx:value />
+                <gx:value>4.23</gx:value>
+                <gx:value />
+                <gx:value>4.65</gx:value>
+                <gx:value>4.88</gx:value>
+                <gx:value>3.56</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value />
+                <gx:value>3.36</gx:value>
+                <gx:value />
+                <gx:value>4.19</gx:value>
+                <gx:value />
+                <gx:value>4.4</gx:value>
+                <gx:value />
+                <gx:value>3.32</gx:value>
+                <gx:value />
+                <gx:value />
+                <gx:value>3.11</gx:value>
+                <gx:value>3.17</gx:value>
+                <gx:value>2.69</gx:value>
+                <gx:value>2.44</gx:value>
+                <gx:value>2.33</gx:value>
+                <gx:value>2.43</gx:value>
+                <gx:value>2.52</gx:value>
+                <gx:value>2.77</gx:value>
+                <gx:value>2.78</gx:value>
+                <gx:value>2.8</gx:value>
+                <gx:value>2.69</gx:value>
+                <gx:value>3.27</gx:value>
+                <gx:value />
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+      </gx:MultiTrack>
+    </Placemark>
+  </Document>
+</kml>
